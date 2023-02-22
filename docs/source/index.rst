@@ -22,6 +22,7 @@ Add v0.5.3b update
 Add v0.5.4 update
 Add v0.5.5 update
 Add v0.6.0 update
+Add v1.23.4 update
 
 .. note::
 
