@@ -11,6 +11,7 @@ how to :ref:`installation` the project.
 
 Add some update
 Add v0.2.0 update
+Add v0.3.0 update
 
 .. note::
 
